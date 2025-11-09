@@ -90,7 +90,10 @@ echo.
 <nul set /p="|  |__| | |  |____    |  |     "
 echo.
 <nul set /p="⠀\______| |_______|   |__|     "
-    
+
+echo [0m
+
 pause >nul
 #exit /b
+
 
