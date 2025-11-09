@@ -14,7 +14,7 @@ timeout /t 2 /nobreak >nul
 cls
 
 echo.
-echo Загрузка завершена.
+echo Загрузка секретных материалов завершена.
 <nul set /p="[0m"
 echo ___________________
 echo.
@@ -43,7 +43,7 @@ timeout /t 1 /nobreak >nul
 timeout /t 1 /nobreak >nul
 
 echo.
-<nul set /p="Размышление"
+<nul set /p="Глубоооокое мышление"
 timeout /t 1 /nobreak >nul
 <nul set /p="."
 timeout /t 1 /nobreak >nul
@@ -93,3 +93,4 @@ echo.
     
 pause >nul
 #exit /b
+
